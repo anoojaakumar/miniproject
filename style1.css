@@ -6,4 +6,7 @@ img {
     display: block;
     margin: auto;
   }
-  
+a{
+    text-align: center;
+    color: wheat;
+}  
